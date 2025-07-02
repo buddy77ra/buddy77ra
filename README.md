@@ -39,14 +39,13 @@
 
 ---
 
-### 📈 GitHub Stats
+### ### 📈 Rodney's GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buddy77ra&show_icons=true&theme=radical" alt="Rodney's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=buddy77ra&show_icons=true&theme=tokyonight" alt="Rodney's GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=buddy77ra&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=buddy77ra&theme=tokyonight" alt="Rodney's GitHub Streak" />
 </p>
-
 ---
 
 ### 🧠 Fun Fact
