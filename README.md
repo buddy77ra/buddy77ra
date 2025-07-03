@@ -15,14 +15,16 @@
 
 ## 🛠️ Technologies & Tools
 
-- up and coming! [HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-- up and coming! [CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-- up and coming! [JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- up and coming! [![HTML Design](https://img.shields.io/badge/Design-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+- up and coming! [![CSS Design](https://img.shields.io/badge/Design-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- up and coming! [![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Current
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+[![Adobe XD](https://img.shields.io/badge/UI%2FUX-Adobe%20XD-470137?style=flat&logo=adobexd&logoColor=white)](https://www.adobe.com/products/xd.html)
 
 ---
 
