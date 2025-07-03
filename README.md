@@ -9,7 +9,7 @@
 - 🎓 Currently studying **Web Development at Trios College**
 - 🤝 Passionate about collaborating with others and building meaningful projects
 - 💬 I love meeting new people — tech is cool, but people make it awesome
-- 🌲 When I'm not coding, you'll find me outdoors enjoying nature and fresh air
+- 🌲 When I'm not learning, you'll find me outdoors enjoying nature and fresh air
 
 ---
 
