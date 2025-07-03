@@ -28,8 +28,7 @@
 
 ## 📫 Let’s Connect!
 
-- 📧 Email: rodney.angers@triosstudent.com  
-- 💼 LinkedIn: *Coming soon*  
+- 📧 Email: rodney.angers@triosstudent.com   
 - 🌐 Portfolio: *Coming soon*  
 - 🐙 GitHub: [github.com/buddy77ra](https://github.com/buddy77ra)
 
