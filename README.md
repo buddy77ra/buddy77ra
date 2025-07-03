@@ -14,7 +14,7 @@
 ---
 
 ## 🛠️ Technologies & Tools
-
+- up and coming! a href="https://www.adobe.com/products/photoshop.html" target="_blank">Adobe Photoshop</a>-
 - up and coming![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 - up and coming!,[CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 - up and coming![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
