@@ -6,7 +6,7 @@
 
 ## 🌱 About Me
 
-- - 🎓 Web Design & Development graduate from triOS College (March 2026)
+- 🎓 Web Design & Development graduate from triOS College (March 2026)
 - 🤝 Passionate about collaborating with others and building meaningful projects
 - 💬 I love meeting new people — tech is cool, but people make it awesome
 - 🌲 When I'm not learning, you'll find me outdoors enjoying nature and fresh air
