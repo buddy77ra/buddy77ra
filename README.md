@@ -1,6 +1,6 @@
 ## <!-- GitHub Profile README for Rodney -->
 <h1 align="center">Hey there 👋, I'm Rodney</h1>
-<h3 align="center">Aspiring Web Developer | Outdoor Enthusiast | Always Learning</h3>
+<h3 align="center">Web & Graphic Designer | Front-End Developer (Entry-Level) | Always Learning</h3>
 
 ---
 
