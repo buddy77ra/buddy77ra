@@ -23,13 +23,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=flat&logo=adobe-xd&logoColor=white)
-
+![Wix](https://img.shields.io/badge/Wix-000000?style=flat&logo=wix&logoColor=white)
 ---
 
 ## 📫 Let’s Connect!
 
 - 📧 Email: rodney.angers@triosstudent.com   
-- 🌐 Portfolio: (*Coming soon*)  
+- 🌐 Portfolio:  https://buddy77ra.github.io  
 - 🐙 GitHub: [github.com/buddy77ra](https://github.com/buddy77ra)
 
 ---
