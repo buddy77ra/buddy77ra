@@ -30,7 +30,7 @@
 
 - 📧 Email: rodney.angers@triosstudent.com   
 - 🌐 Portfolio: https://buddy77ra.github.io (My personal website & projects)  
-- 💻 GitHub: https://github.com/buddy77ra (View my code & projects)
+- 💻 GitHub: https://github.com/buddy77ra (Learning projects & coursework)
 
 ---
 
