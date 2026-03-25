@@ -6,7 +6,7 @@
 
 ## 🌱 About Me
 
-- 🎓 Recently completed Web Design & Development at triOS College
+- - 🎓 Web Design & Development graduate from triOS College (March 2026)
 - 🤝 Passionate about collaborating with others and building meaningful projects
 - 💬 I love meeting new people — tech is cool, but people make it awesome
 - 🌲 When I'm not learning, you'll find me outdoors enjoying nature and fresh air
@@ -54,6 +54,6 @@
 
 ## 🧠 Fun Fact
 
-> _"The best way to learn to code is by building cool stuff — and doing it together."_  
+> I learn best by doing — building projects and improving step by step.
 
 Thanks for stopping by! Feel free to reach out or say hi — I'm always up for a good chat. 🚀
